@@ -1,0 +1,162 @@
+/*Colors*/
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/*Basic settings*/
+html {
+  font-size: 10px;
+}
+.button {
+  background-color: #fcb203;
+  color: #ffffff;
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  text-transform: uppercase;
+  border: none;
+}
+.button-1 {
+  position: absolute;
+  top: -560px;
+}
+.header {
+  height: 7rem;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+}
+.phone-link {
+  position: absolute;
+  top: -580px;
+  display: inline-block;
+  color: #1a1820;
+  font-weight: 900;
+  font-size: 1.8rem;
+  height: 7rem;
+  line-height: 7rem;
+}
+/*Typography*/
+.section {
+  padding: 10rem 0;
+}
+/*main*/
+.header-img {
+  position: relative;
+  height: 600px;
+  width: 100%;
+  margin-top: -40px;
+}
+.logo {
+  position: absolute;
+  top: -580px;
+}
+main {
+  padding: 3rem 0;
+}
+.header-h1 {
+  font-size: 42px;
+  margin-top: -500px;
+  text-transform: uppercase;
+}
+.header-h2 {
+  font-size: 14px;
+  color: #1a1820;
+}
+.header-form {
+  position: absolute;
+  top: -500px;
+  width: 290px;
+  height: 320px;
+  background-color: #ffffff;
+  padding: 10%;
+}
+.white-box {
+  position: absolute;
+  top: 90px;
+  left: 110px;
+  width: 70px;
+  height: 20px;
+  background-color: #ffffff;
+}
+.white-box-2 {
+  position: absolute;
+  top: 145px;
+  left: 90px;
+  width: 110px;
+  height: 20px;
+  background-color: #ffffff;
+}
+input {
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 20px;
+  width: 210px;
+}
+.head-form-txt {
+  font-size: 12px;
+  position: absolute;
+  right: 118px;
+  top: 85px;
+}
+.head-form-txt-2 {
+  font-size: 12px;
+  position: absolute;
+  right: 98px;
+  top: 145px;
+}
+.button-2 {
+  width: 100%;
+  margin-top: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 2rem 3rem;
+}
+.form-p {
+  margin-top: 10px;
+  text-align: center;
+}
+.header-h2a {
+  position: absolute;
+  top: -370px;
+}
+.green-box {
+  padding: 20px;
+  position: absolute;
+  top: 380px;
+  width: 180px;
+  height: 80px;
+  background-color: #00c939;
+}
+.green-box-text {
+  position: absolute;
+  top: 395px;
+  left: 240px;
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 700;
+}
+.big-num {
+  font-size: 18px;
+}
+.header-payment {
+  position: absolute;
+  top: 470px;
+  left: 215px;
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.header-info {
+  display: inline-block;
+  position: absolute;
+  top: 500px;
+  left: 980px;
+  font-size: 12px;
+}
