@@ -12,3 +12,6 @@
 
 [Дз урок 14](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson14 "Домашнее задание к 14 уроку")
 
+[Дз урок 15](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson15 "Домашнее задание к 15 уроку")
+
+
