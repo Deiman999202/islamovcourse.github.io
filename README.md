@@ -9,3 +9,6 @@
 [Третья дз](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/12%20lesson "3 дз")
 
 [Дз урок 13](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson13 "Домашнее задание к 13 уроку")
+
+[Дз урок 14](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson14 "Домашнее задание к 14 уроку")
+
