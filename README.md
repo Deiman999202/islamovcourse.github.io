@@ -20,3 +20,4 @@
 
 [Дз урок 18](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-18 "Домашнее задание к 18 уроку")
 
+[Дз урок 19](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-20 "Домашнее задание к 19 уроку")
