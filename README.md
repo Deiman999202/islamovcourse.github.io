@@ -23,3 +23,7 @@
 [Дз урок 19](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-20 "Домашнее задание к 19 уроку")
 
 [Дз урок 20](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson%2020(true) "Домашнее задание к 20 уроку")
+
+[Дз урок 21](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson21 "Домашнее задание к 21 уроку")
+
+
