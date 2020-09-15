@@ -1,0 +1,26 @@
+
+.text{
+	color: #00bbf2;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.container{
+	margin-top: 50px;
+}
+.button-1{
+	background-color: #00bbf2;
+	color: white;
+}
+.card{
+	display: inline-block;
+	margin-left: 240px;
+	width: 620px;
+	background: none;
+}
+.card-header{
+	background-color: #00bbf2;
+}
+.card-body{
+	display: inline-block;
+	width: 620px;
+}
