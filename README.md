@@ -29,3 +29,5 @@
 [Дз урок 22(1)](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson%2022(1) "Домашнее задание к 22 уроку 1 часть")
 
 [Дз урок 22(2)](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson%2022(2) "Домашнее задание к 22 уроку 2 часть")
+
+[Дз урок 23](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson%2023 "Домашнее задание к 23 уроку")
