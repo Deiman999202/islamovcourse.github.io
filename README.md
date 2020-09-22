@@ -36,7 +36,8 @@
 
 [Дз урок 25](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-25 "Домашнее задание к 25 уроку")
 
-
 [Дз урок 26](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-26 "Домашнее задание к 26 уроку")
+
+[Дз урок 27](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-27 "Домашнее задание к 27 уроку")
 
 
