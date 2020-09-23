@@ -40,4 +40,6 @@
 
 [Дз урок 27](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-27 "Домашнее задание к 27 уроку")
 
+[Дз урок 28](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-28 "Домашнее задание к 28 уроку")
+
 
