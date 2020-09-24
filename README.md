@@ -42,4 +42,6 @@
 
 [Дз урок 28](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-28 "Домашнее задание к 28 уроку")
 
+[Дз урок 29](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-29 "Домашнее задание к 29 уроку")
+
 
