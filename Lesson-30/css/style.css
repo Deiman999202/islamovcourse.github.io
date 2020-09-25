@@ -1,0 +1,53 @@
+*{
+	box-sizing: border-box;
+}
+p{
+	display: inline-block;
+}
+.baby{
+	margin-bottom: 20px;
+}
+.na-kartu{
+	position: absolute;
+	top: 0;
+	left: 150px;
+	background-color: #c60b0b;
+	color: white;
+	width: 400px;
+	height: 420px;
+	text-align: center;
+	padding: 50px;
+}
+.nani{
+	margin-top: 40px;
+}
+.nani-2{
+	margin-top: 40px;
+	text-decoration: underline;
+}
+.logo-text{
+	margin-right: 500px;
+	font-weight: 900;
+	font-size: 16px;
+	width: 50px;
+}
+.info{
+	margin-right: 300px;
+	text-align: center;
+	font-size: 20px;
+	color: #666666;
+}
+.small{
+	display: inline-block;
+}
+.infoo{
+	text-align: right;
+}
+.phone{
+	font-weight: 900;
+	font-size: 24px;
+}
+.address{
+	font-weight: 900;
+	font-size: 18px;
+}
