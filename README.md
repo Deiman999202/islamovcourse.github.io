@@ -44,4 +44,6 @@
 
 [Дз урок 29](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-29 "Домашнее задание к 29 уроку")
 
+[Дз урок 30](https://github.com/Deiman999202/islamovcourse.github.io/tree/master/Lesson-30 "Домашнее задание к 30 уроку")
+
 
